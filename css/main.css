@@ -1,0 +1,15 @@
+#results {
+    display:none;
+  }
+
+body{
+    background-color: rgb(156, 109, 144);
+}
+
+.input-group > #billTotal, .input-group > #tipAmount, .input-group > #totalBillWithTip {
+    background-color: rgb(223, 233, 168);
+}
+
+h1, h5 {
+    font-family: Stencil Std, fantasy;
+}
